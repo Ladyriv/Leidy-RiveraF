@@ -44,6 +44,8 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ladyriv&theme=solarized-light&show_icons=true" align="center" /></div>  
 
 <br/>  
+<div align="center"><img src="https://streak-stats.demolab.com/?user=Ladyriv" align="center" /></div> 
+ 
 
 <br/>  
 
